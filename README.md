@@ -1,6 +1,6 @@
 # Hi, I'm Monica Jayakumar! 👋
 
-<img align="right" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" />
+<img align="right" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" />
 
 ## About Me
 
@@ -10,6 +10,7 @@ I'm a passionate data analytics professional who loves turning complex datasets 
 
 ### Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Visualization
@@ -42,10 +43,15 @@ I'm a passionate data analytics professional who loves turning complex datasets 
 ### [Nebula AI](https://nebulaspace.netlify.app/)
 Nebula AI is an autonomous space mission control system that optimizes satellite operations using advanced AI. It detects anomalies, allocates resources, and makes real-time decisions to ensure mission success. With real-time dashboards, simulation modules, and task scheduling, it supports complex missions like Saturn Orbit Insertion and Titan Flybys.
 
+## Currently Working On
+
+**Data Analysis for AI Agent Workflow on KIRA**  
+I'm currently focusing on analyzing and optimizing the AI agent workflow for KIRA, a foundational model. This project involves streamlining data pipelines, evaluating performance metrics, and refining decision-making processes to boost overall efficiency.
+
 ## Let's Connect
 
-- 📧 [monicaajayakumar@gmail.com](mailto:monicaajayakumar@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com)
+- 📧 [monicaajayakumar@gmail.com](mailto:monicaajayakumar661@gmail.com)
+- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/monicajayakumar/))
 - 🐙 [GitHub](https://github.com/Monica2403)
 - 📍 Cambridge, United Kingdom
 
