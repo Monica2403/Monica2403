@@ -50,7 +50,7 @@ I'm currently focusing on analyzing and optimizing the AI agent workflow for KIR
 ## Let's Connect
 
 - 📧 [monicaajayakumar@gmail.com](mailto:monicaajayakumar661@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/monicajayakumar/))
+- 💼 [LinkedIn]](https://www.linkedin.com/in/monicajayakumar/))
 - 🐙 [GitHub](https://github.com/Monica2403)
 - 📍 Cambridge, United Kingdom
 
