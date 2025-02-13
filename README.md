@@ -1,6 +1,6 @@
 # Hi, I'm Monica Jayakumar! 👋
 
-<img align="right" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" />
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNwNDEyNWF3Z2NpbHcydmVneTJxaHFwajB2eTVjbzlnbm5jcmRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250" />
 
 ## About Me
 
