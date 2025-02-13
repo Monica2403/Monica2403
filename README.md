@@ -1,4 +1,17 @@
-# Hi, I'm Monica Jayakumar ![Real Time Girl Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+# Hi, I'm Monica Jayakumar
+
+<p align="center">
+  <!-- Lottie Player Script & Animation -->
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <lottie-player 
+    src="https://assets10.lottiefiles.com/packages/lf20_nCFfEty3pW.json"  
+    background="transparent"  
+    speed="1"  
+    style="width: 300px; height: 300px;"  
+    loop  
+    autoplay>
+  </lottie-player>
+</p>
 
 <p align="center">
   <a href="https://github.com/Monica2403">
