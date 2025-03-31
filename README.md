@@ -38,9 +38,7 @@ I'm a Data Science  and AI Engineer passionate about transforming data into acti
 
 ## 📫 Let's Connect  
 
-- 📧 [Email](mailto:monicaajayakumar@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/monicajayakumar/)  
-- 🐙 [GitHub](https://github.com/Monica2403)  
+📧 [Email](mailto:monicaajayakumar@gmail.com)                 💼 [LinkedIn](https://www.linkedin.com/in/monicajayakumar/)             🐙 [GitHub](https://github.com/Monica2403)  
 <div align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50" />
   <p><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
