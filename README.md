@@ -23,7 +23,7 @@ I'm a Data Science  and AI Engineer passionate about transforming data into acti
 ![Miro](https://img.shields.io/badge/-Miro-000000?style=flat-square&logo=miro&logoColor=white)
 
 **Office & Productivity:**  
-![MS Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white), ![MS Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white), ![MS PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white), ![MS Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white), ![MS PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 
 **AI & Machine Learning:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white), ![Natural Language Processing](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square&logo=python&logoColor=white)
@@ -36,17 +36,11 @@ I'm a Data Science  and AI Engineer passionate about transforming data into acti
 
 - **Optimizing AI Agent Workflow:** Enhancing data pipelines and decision-making efficiency for foundational AI models.
 
----
-
 ## 📫 Let's Connect  
 
-- 📧 [monicaajayakumar661@gmail.com](mailto:monicaajayakumar661@gmail.com)  
+- 📧 [Email](mailto:monicaajayakumar@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/monicajayakumar/)  
 - 🐙 [GitHub](https://github.com/Monica2403)  
-- 📍 Cambridge, United Kingdom  
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50" />
   <p><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
