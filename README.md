@@ -60,15 +60,11 @@ Currently researching on enhancing AI agents' reasoning and planning capabilitie
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
----
-
-> _Built with ❤️ and ☕ by [Your Name](https://github.com/yourname)_
-
-
- 
 ## 🏆 Achievement  
 
-- **Winner of [Lablab AI’s AIstronautes Hackathon](https://nebulaspace.netlify.app/)** – Developed Nebula AI, an Autonomous AI-driven satellite mission management system.
+- 🏆 **Lablab AIs AIstronauts Hackathon (2025)** – **Winner**: Nebula AI for satellite automation
+- 🏆 **Winner of Best Creative AI Project at the Agentic AI Innovation Challenge 2025**
+
 
 ## 💡 Currently Working On  
 
