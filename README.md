@@ -8,20 +8,6 @@ AI & Data Engineer: Architecting and deploying robust AI solutions from raw data
 ## Current Research
 Currently researching on enhancing AI agents' reasoning and planning capabilities to overcome limitations in logical reasoning, dynamic planning, and precise execution.
 
-
-## 🛠️ Tech Stack
-## Languages
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourname/yourrepo/main/assets/logo.png" alt="Project Logo" width="200"/>
-</p>
-
-# Your Project Name
-
-_A short project tagline goes here._
-
----
-
 ## 🛠️ Tech Stack
 ## Languages
 
