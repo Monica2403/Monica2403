@@ -1,6 +1,6 @@
 # Hi, I'm Monica Jayakumar! 👋  
 **AI & Data Engineer, Hackathon Expert**
-Cambridge,UK | [Email ME](mailto:monicaajayakumar@gmail.com)
+🌍Cambridge,UK | ✉[Email Me](mailto:monicaajayakumar@gmail.com)
 
 ## 🚀 About Me  
 AI & Data Engineer: Architecting and deploying robust AI solutions from raw data to production. 3+ years experience with Python, SQL, NLP, and cloud technologies.
