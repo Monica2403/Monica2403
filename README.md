@@ -1,5 +1,5 @@
 # Hi, I'm Monica Jayakumar! 👋  
-**AI & Data Engineer, Hackathon Expert**
+**AI & Data Science, Hackathon Expert**
 🌍Cambridge,UK | ✉[Email Me](mailto:monicaajayakumar@gmail.com)
 
 ## 🚀 About Me  
